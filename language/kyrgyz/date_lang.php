@@ -2,26 +2,26 @@
 /**
  * System messages translation for CodeIgniter(tm)
  *
- * @author	CodeIgniter community
+ * @author	CodeIgniter community / Immortality
  * @copyright	Copyright (c) 2014 - 2015, British Columbia Institute of Technology (http://bcit.ca/)
  * @license	http://opensource.org/licenses/MIT	MIT License
  * @link	http://codeigniter.com
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
-$lang['date_year'] = 'Год';
-$lang['date_years'] = 'Лет';
-$lang['date_month'] = 'Месяц';
-$lang['date_months'] = 'Месяцев';
-$lang['date_week'] = 'Неделя';
-$lang['date_weeks'] = 'Недель';
-$lang['date_day'] = 'День';
-$lang['date_days'] = 'Дней';
-$lang['date_hour'] = 'Час';
-$lang['date_hours'] = 'Часов';
-$lang['date_minute'] = 'Минута';
+$lang['date_year'] = 'Жыл';
+$lang['date_years'] = 'Жыл';
+$lang['date_month'] = 'Ай';
+$lang['date_months'] = 'Ай';
+$lang['date_week'] = 'Жума';
+$lang['date_weeks'] = 'Жума';
+$lang['date_day'] = 'Күн';
+$lang['date_days'] = 'Күн';
+$lang['date_hour'] = 'Саат';
+$lang['date_hours'] = 'Саат';
+$lang['date_minute'] = 'Минут';
 $lang['date_minutes'] = 'Минут';
 $lang['date_second'] = 'Секунда';
-$lang['date_seconds'] = 'Секунд';
+$lang['date_seconds'] = 'Секунда';
 $lang['UM12'] = '(UTC -12:00) Бейкер/Хауленд';
 $lang['UM11'] = '(UTC -11:00) Ниуэ';
 $lang['UM10'] = '(UTC -10:00) Гавайи';
@@ -43,7 +43,7 @@ $lang['UP2'] = '(UTC +2:00) Калининградское время, Вост�
 $lang['UP3'] = '(UTC +3:00) Московское время, Восточноафриканское время, Ирак, Кувейт, Саудовская Аравия';
 $lang['UP35'] = '(UTC +3:30) Тегеранское время';
 $lang['UP4'] = '(UTC +4:00) Самарское время, ОАЭ, Оман, Азербайджан, Армения, Грузия';
-$lang['UP45'] = '(UTC +4:30) Афганистан';
+$lang['UP45'] = '(UTC +4:30) Оганыстан';
 $lang['UP5'] = '(UTC +5:00) Екатеринбург, Западноазиатское время (Исламабад, Карачи, Узбекистан)';
 $lang['UP55'] = '(UTC +5:30) Индия, Шри-Ланка';
 $lang['UP575'] = '(UTC +5:45) Непал';
