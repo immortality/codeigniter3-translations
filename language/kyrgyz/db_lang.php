@@ -2,7 +2,7 @@
 /**
  * System messages translation for CodeIgniter(tm)
  *
- * @author	CodeIgniter community / Immortality
+ * @author	CodeIgniter community / Immortality өүң
  * @copyright	Copyright (c) 2014 - 2015, British Columbia Institute of Technology (http://bcit.ca/)
  * @license	http://opensource.org/licenses/MIT	MIT License
  * @link	http://codeigniter.com
@@ -22,7 +22,7 @@ $lang['db_del_must_use_where'] = 'Удаления не допускаются, 
 $lang['db_field_param_missing'] = 'Для выборки полей необходимо имя таблицы в качестве параметра.';
 $lang['db_unsupported_function'] = 'Эта функция не доступна для используемой базы данных.';
 $lang['db_transaction_failure'] = 'Транзакция не удалась: Осуществляется откат.';
-$lang['db_unable_to_drop'] = 'Невозможно удалить указанную базу данных.';
+$lang['db_unable_to_drop'] = 'Аныкталган маалымат базасын өчүрүүгө мүмкүн эмес.';
 $lang['db_unsupported_feature'] = 'Неподдерживаемая особенность платформы базы данных которую вы используете.';
 $lang['db_unsupported_compression'] = 'Формат сжатия файлов который вы выбрали не поддерживается вашим сервером.';
 $lang['db_filepath_error'] = 'Невозможно записать данные в файл, используя путь который вы указали.';
@@ -31,4 +31,4 @@ $lang['db_table_name_required'] = 'Необходимо указать имя т
 $lang['db_column_name_required'] = 'Необходимо указать имя столбца для этой операции.';
 $lang['db_column_definition_required'] = 'Указание столбца обязательно для этой операции.';
 $lang['db_unable_to_set_charset'] = 'Невозможно установить кодировку соединения: %s';
-$lang['db_error_heading'] = 'Ошибка базы данных.';
+$lang['db_error_heading'] = 'Маалымат базасында ката чыкты.';
